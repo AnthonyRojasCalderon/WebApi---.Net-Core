@@ -1,0 +1,30 @@
+C:\Users\50660\Desktop\Visual Studio\Backend-Core\AccesoDatos\bin\Debug\netcoreapp2.1\AccesoDatos.deps.json
+C:\Users\50660\Desktop\Visual Studio\Backend-Core\AccesoDatos\bin\Debug\netcoreapp2.1\AccesoDatos.dll
+C:\Users\50660\Desktop\Visual Studio\Backend-Core\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\50660\Desktop\Visual Studio\Backend-Core\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\50660\Desktop\Visual Studio\Backend-Core\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\50660\Desktop\Visual Studio\Backend-Core\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.AssemblyInfo.cs
+C:\Users\50660\Desktop\Visual Studio\Backend-Core\AccesoDatos\bin\Debug\netcoreapp2.1\snappy32.dll
+C:\Users\50660\Desktop\Visual Studio\Backend-Core\AccesoDatos\bin\Debug\netcoreapp2.1\snappy64.dll
+C:\Users\50660\Desktop\Visual Studio\Backend-Core\AccesoDatos\bin\Debug\netcoreapp2.1\libzstd.dll
+C:\Users\50660\Desktop\Visual Studio\Backend-Core\AccesoDatos\bin\Debug\netcoreapp2.1\AccesoDatos.pdb
+C:\Users\50660\Desktop\Visual Studio\Backend-Core\AccesoDatos\bin\Debug\netcoreapp2.1\Entidades.dll
+C:\Users\50660\Desktop\Visual Studio\Backend-Core\AccesoDatos\bin\Debug\netcoreapp2.1\Entidades.pdb
+C:\Users\50660\Desktop\Visual Studio\Backend-Core\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.csproj.CopyComplete
+C:\Users\50660\Desktop\Visual Studio\Backend-Core\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.dll
+C:\Users\50660\Desktop\Visual Studio\Backend-Core\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.pdb
+D:\Documentos UAM\Visual Studio\Backend-Core\AccesoDatos\bin\Debug\netcoreapp2.1\snappy32.dll
+D:\Documentos UAM\Visual Studio\Backend-Core\AccesoDatos\bin\Debug\netcoreapp2.1\snappy64.dll
+D:\Documentos UAM\Visual Studio\Backend-Core\AccesoDatos\bin\Debug\netcoreapp2.1\libzstd.dll
+D:\Documentos UAM\Visual Studio\Backend-Core\AccesoDatos\bin\Debug\netcoreapp2.1\AccesoDatos.deps.json
+D:\Documentos UAM\Visual Studio\Backend-Core\AccesoDatos\bin\Debug\netcoreapp2.1\AccesoDatos.dll
+D:\Documentos UAM\Visual Studio\Backend-Core\AccesoDatos\bin\Debug\netcoreapp2.1\AccesoDatos.pdb
+D:\Documentos UAM\Visual Studio\Backend-Core\AccesoDatos\bin\Debug\netcoreapp2.1\Entidades.dll
+D:\Documentos UAM\Visual Studio\Backend-Core\AccesoDatos\bin\Debug\netcoreapp2.1\Entidades.pdb
+D:\Documentos UAM\Visual Studio\Backend-Core\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.csprojAssemblyReference.cache
+D:\Documentos UAM\Visual Studio\Backend-Core\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Documentos UAM\Visual Studio\Backend-Core\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.AssemblyInfoInputs.cache
+D:\Documentos UAM\Visual Studio\Backend-Core\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.AssemblyInfo.cs
+D:\Documentos UAM\Visual Studio\Backend-Core\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.csproj.CopyComplete
+D:\Documentos UAM\Visual Studio\Backend-Core\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.dll
+D:\Documentos UAM\Visual Studio\Backend-Core\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.pdb
